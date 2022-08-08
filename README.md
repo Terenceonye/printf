@@ -9,3 +9,5 @@ How to use git in a team setting
 Applying variadic functions to a big project
 The complexities of printf
 Managing a lot of files and finding a good workflow
+
+#DONE BY TERENCE ONYEWEKE IN COLLABORATION WITH TATIANE
