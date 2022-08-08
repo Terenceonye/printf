@@ -1,2 +1,2 @@
-# printf
-ALX task for better mastery of C programming language 
+# A COLLABORATION TO CUSTOM THE printf FUNCTION
+BY TERENCE ONYEWEKE AND TATIANE
